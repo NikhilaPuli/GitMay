@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/54769172/docker-crashing-on-ubuntu-14-04-for-any-container
+------------------------------------------------------------
+
+sudo apt-get install linux-generic-lts-xenial
+sudo reboot
